@@ -30,7 +30,7 @@ The Travel Recommendation Project helps users discover travel destinations and g
 ## 🛠 Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/sehrishjaved19/travelRecommendation_frontend.git
+   git clone https://github.com/surendrad24/travelRecommendation_frontend.git
    cd travelRecommendation_frontend
    ```
 
